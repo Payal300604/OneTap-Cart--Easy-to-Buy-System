@@ -132,7 +132,11 @@ Before running the project, install the required dependencies:
 
 ```bash
 pip install pillow qrcode
-   
 ---
 
+```
+🙋‍♀️ Author
+Payal Paunikar
 
+📧 Email: payalpaunikar321@gmail.com
+🌐 LinkedIn: linkedin.com/in/payal-paunikar-9abb5a255
