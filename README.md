@@ -123,7 +123,7 @@ pip install pillow qrcode
 ---
 
 ```
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Payal Paunikar
 
 📧 Email: payalpaunikar321@gmail.com
