@@ -86,7 +86,7 @@ python main.py
 ## 📸 Screenshots
 
 ### 🛍️ Welcome Screen
-![Welcome](screenshots/1.Welcome.png)
+![Welcome]
 <img width="1916" height="1011" alt="1 Welcome" src="https://github.com/user-attachments/assets/f6689a9c-542f-45f9-b989-357ce32cc53d" />
 
 
