@@ -43,7 +43,7 @@ Make sure the system has internet access and WhatsApp is installed or accessible
 
 ----
 
-##🧾 Features in Detail
+## 🧾 Features in Detail
 
 | Feature              | Description                                             |
 | -------------------- | ------------------------------------------------------- |
@@ -58,7 +58,7 @@ Make sure the system has internet access and WhatsApp is installed or accessible
 
 -----
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
 git clone https://github.com/your-username/xyz-online-shopping-app.git
