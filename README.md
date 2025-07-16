@@ -26,8 +26,10 @@ OneTap-Cart--Easy-to-Buy-System/
 ├── main.py # Main application code
 ├── payment_qr.png # QR code (generated at runtime)
 ├── README.md # Documentation file
-
-
+├── screenshots
+   ├── welcome.png
+   ├── cart.png
+   └── qr_payment.png
 ---
 
 ## 🖥️ Tech Stack
@@ -88,4 +90,36 @@ Before running the project, install the required dependencies:
 ```bash
 pip install pillow qrcode
    
+---
 
+## 📸 Screenshots
+
+### 🛍️ Welcome Screen
+![Welcome](screenshots/1.Welcome.png)
+
+### Caterory Selection
+![All Categories](screenshots/2.All categories.png)
+
+### Category 1
+![Bottom Wear](screenshots/3.category 1.png)
+
+### Category 2
+![Shirts](screenshots/4.category 2.png)
+
+### Category 3
+![Tops](screenshots/5.category 3.png)
+
+### 🛒 Cart Summary
+![Cart](screenshots/6.Cart.png)
+
+### Proceed to Payment
+![Customer info] (screenshots/7.Proceed to payment.png)
+
+### ✅ QR Code Payment
+![QR Payment](screenshots/8.QR.png)
+
+### Whatsapp Bill
+![Whatsapp Bill](screenshots/9.Whatsapp.png)
+
+### Exit Screen
+![Feedback](screenshots/10.Thank you and feedback.png)
