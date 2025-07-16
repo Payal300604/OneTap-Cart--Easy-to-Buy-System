@@ -83,15 +83,6 @@ python main.py
 
 -----
 
-## 📦 Requirements
-
-Before running the project, install the required dependencies:
-
-```bash
-pip install pillow qrcode
-   
----
-
 ## 📸 Screenshots
 
 ### 🛍️ Welcome Screen
@@ -123,3 +114,15 @@ pip install pillow qrcode
 
 ### Exit Screen
 ![Feedback](screenshots/10.Thank you and feedback.png)
+
+
+## 📦 Requirements
+
+Before running the project, install the required dependencies:
+
+```bash
+pip install pillow qrcode
+   
+---
+
+
